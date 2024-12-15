@@ -1,0 +1,19 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "description": "This is React course for learning react from namaster react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishu30/ReactCourse.git"
+  },
+  "author": "Kishu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishu30/ReactCourse/issues"
+  },
+  "homepage": "https://github.com/kishu30/ReactCourse#readme"
+}
