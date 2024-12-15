@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/kishu30/ReactCourse/issues"
   },
-  "homepage": "https://github.com/kishu30/ReactCourse#readme"
+  "homepage": "https://github.com/kishu30/ReactCourse#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "parcel": "^2.13.2"
+  }
 }
